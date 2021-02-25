@@ -1,6 +1,8 @@
-**Accessibility Tips Relevant to Visual Rhetoric**
+**Accessibility Tips Relevant to Visual Rhetoric** 
 
-**1. WCAG (Web Content Accessibility Guidelines)** - offers guidelines for increasing digital accessibility (designed for web pages, but has useful general tips that can be applied to other forms of digital contect)
+(All of the following information are notes taken from online research. The wesbites where the information was found are listed below and are not my original work. I simply wanted to gather relevant notes in one place for educational purposes.)
+
+**1. WCAG (Web Content Accessibility Guidelines - June 2010)** - offers guidelines for increasing digital accessibility (designed for web pages, but has useful general tips that can be applied to other forms of digital contect)
 
 - website: https://www.w3.org/WAI/GL/WCAG20/ (below are some highlights relevant to visual media)
 - create text alternatives for any non-text content (ex. include text-based descriptions in the meta-data of the image)
@@ -12,7 +14,7 @@
 - width of < 80 characters with non-justified text and line-spacing of at least 1.5 for any long text
 - images of text should only be used for pure decoration or when given presentation if necessary to the information being conveyed
 
-**2. British Dyslexia Association** - offers guidelines on styling to increase text readability for those with dyslexia
+**2. British Dyslexia Association (2018)** - offers guidelines on styling to increase text readability for those with dyslexia 
 
 - website: https://www.bdadyslexia.org.uk/advice/employers/creating-a-dyslexia-friendly-workplace/dyslexia-friendly-style-guide#:~:text=Readable%20fonts,may%20request%20a%20larger%20font. (below are some highlights relevant to visual media)
 - sans serif fonts such as Arial, Verdana, Tahoma, Century Gothic, Trebuchet, Calibri, and Open Sans are more readable
@@ -22,7 +24,7 @@
 - increase contrast between background and text
     - if possible, make the background light and the text dark
 
-**3. Color-blind Friendly Color Schemes**
+**3. Venngage Article "How to Use Color Blind Friendly Palettes to Make Your Charts Accessible" by Rachel Cravit (08/21/2019)** 
 
 - this article offers the following tips, along with some color-blind safe color palettes
     - https://venngage.com/blog/color-blind-friendly-palette/
