@@ -2,7 +2,7 @@
 
 (The following information is a compilation of notes taken from online research. The websites where the information was found are listed below and are not my original work. I simply wanted to gather relevant notes in one place for educational purposes.)
 
-**1. WCAG (Web Content Accessibility Guidelines - 06/2010)** - offers guidelines for increasing digital accessibility (designed for web pages, but has useful general tips that can be applied to other forms of digital contect)
+**1. WCAG (Web Content Accessibility Guidelines - June 2010)** - offers guidelines for increasing digital accessibility (designed for web pages, but has useful general tips that can be applied to other forms of digital contect)
 
 - website: https://www.w3.org/WAI/GL/WCAG20/ (below are some highlights relevant to visual media)
     - editors: Ben Caldwell, Trace R&D Center, University of Wisconsin-Madison / Michael Cooper, W3C / Loretta Guarino Reid, Google, Inc. / Gregg Vanderheiden, Trace R&D Center, University of Wisconsin-Madison
