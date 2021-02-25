@@ -104,7 +104,7 @@ When using it for any project, you are required to give credit to the icon‘s 
 
 **“broken leg” icon by Florent Lenormand from the Noun Project**
 
-(Annotations) from “Inclusive icons” collection - person with missing leg and two crutches
+(Annotations) from “Inclusive icons” collection - person with missing leg and two crutches - same title but different icon than second asset on the list
 
 (Rights) “This icon is licensed as Creative Commons CCBY
 When using it for any project, you are required to give credit to the icon‘s creator or purchase a royalty–free license.”
