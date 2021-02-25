@@ -10,7 +10,7 @@
     - Level AAA is 7:1 for smaller text and 4.5:1 for larger text (greater accessibility)
     - https://webaim.org/resources/contrastchecker/ allows you to check your color palette contrast for levels AA and AAA
 - width of < 80 characters with non-justified text and line-spacing of at least 1.5 for any long text
-- images of text should only be used for pure decoration or when given presentation if necessary to the info being conveyed
+- images of text should only be used for pure decoration or when given presentation if necessary to the information being conveyed
 
 **2. British Dyslexia Association** - offers guidelines on styling to increase text readability for those with dyslexia
 
