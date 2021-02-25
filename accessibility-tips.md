@@ -1,10 +1,11 @@
 **Accessibility Tips Relevant to Visual Rhetoric** 
 
-(All of the following information are notes taken from online research. The wesbites where the information was found are listed below and are not my original work. I simply wanted to gather relevant notes in one place for educational purposes.)
+(The following information is a compilation of notes taken from online research. The websites where the information was found are listed below and are not my original work. I simply wanted to gather relevant notes in one place for educational purposes.)
 
 **1. WCAG (Web Content Accessibility Guidelines - June 2010)** - offers guidelines for increasing digital accessibility (designed for web pages, but has useful general tips that can be applied to other forms of digital contect)
 
 - website: https://www.w3.org/WAI/GL/WCAG20/ (below are some highlights relevant to visual media)
+    - editors: Ben Caldwell, Trace R&D Center, University of Wisconsin-Madison / Michael Cooper, W3C / Loretta Guarino Reid, Google, Inc. / Gregg Vanderheiden, Trace R&D Center, University of Wisconsin-Madison
 - create text alternatives for any non-text content (ex. include text-based descriptions in the meta-data of the image)
     -  doing so allows the text to be altered to the user's specific needs (ex. speech, different language, larger text, etc.)
 - use contrast with coloring of text
@@ -24,10 +25,9 @@
 - increase contrast between background and text
     - if possible, make the background light and the text dark
 
-**3. Venngage Article "How to Use Color Blind Friendly Palettes to Make Your Charts Accessible" by Rachel Cravit (08/21/2019)** 
+**3. Venngage Article "How to Use Color Blind Friendly Palettes to Make Your Charts Accessible" by Rachel Cravit (08/21/2019)** - offers color scheme tips, along with some color-blind safe color palettes
 
-- this article offers the following tips, along with some color-blind safe color palettes
-    - https://venngage.com/blog/color-blind-friendly-palette/
+- website: https://venngage.com/blog/color-blind-friendly-palette/ (below are some highlights relevant to visual media)
 - avoid color combinations that will make color differentiation difficult
     - red/green, green/brown, green/blue, blue/gray, blue/purple, green/gray, green/black
 - use greater contrast and patterns/textures to make differentiation easier
