@@ -25,7 +25,9 @@ Running Citations (once proposal is okayed):
 (Rights) “This icon is licensed as Creative Commons CCBY
 When using it for any project, you are required to give credit to the icon‘s creator or purchase a royalty–free license.”
 
-(Citations) site: thenounproject.com
+(Citations) 
+
+                  site: thenounproject.com
                   direct address: https://thenounproject.com/term/people/3393687/
                   title: people
                   user: Florent Lenormand
@@ -39,7 +41,9 @@ When using it for any project, you are required to give credit to the icon‘s 
 (Rights) “This icon is licensed as Creative Commons CCBY
 When using it for any project, you are required to give credit to the icon‘s creator or purchase a royalty–free license.”
 
-(Citations) site: thenounproject.com
+(Citations) 
+
+                  site: thenounproject.com
                   direct address: https://thenounproject.com/term/broken-leg/3393698/
                   title: broken leg
                   user: Florent Lenormand
@@ -53,7 +57,9 @@ When using it for any project, you are required to give credit to the icon‘s 
 (Rights) “This icon is licensed as Creative Commons CCBY
 When using it for any project, you are required to give credit to the icon‘s creator or purchase a royalty–free license.”
 
-(Citations) site: thenounproject.com
+(Citations) 
+
+                  site: thenounproject.com
                   direct address: https://thenounproject.com/term/kid/3393691/
                   title: kid
                   user: Florent Lenormand
@@ -67,7 +73,9 @@ When using it for any project, you are required to give credit to the icon‘s 
 (Rights) “This icon is licensed as Creative Commons CCBY
 When using it for any project, you are required to give credit to the icon‘s creator or purchase a royalty–free license.”
 
-(Citations) site: thenounproject.com
+(Citations) 
+
+                  site: thenounproject.com
                   direct address: https://thenounproject.com/term/people-and-large-person/3393712/
                   title: people and large person
                   user: Florent Lenormand
@@ -81,7 +89,9 @@ When using it for any project, you are required to give credit to the icon‘s 
 (Rights) “This icon is licensed as Creative Commons CCBY
 When using it for any project, you are required to give credit to the icon‘s creator or purchase a royalty–free license.”
 
-(Citations) site: thenounproject.com
+(Citations) 
+
+                  site: thenounproject.com
                   direct address: https://thenounproject.com/term/person-with-a-disability/3393710/
                   title: person with a disability
                   user: Florent Lenormand
@@ -95,7 +105,9 @@ When using it for any project, you are required to give credit to the icon‘s 
 (Rights) “This icon is licensed as Creative Commons CCBY
 When using it for any project, you are required to give credit to the icon‘s creator or purchase a royalty–free license.”
 
-(Citations) site: thenounproject.com
+(Citations) 
+
+                  site: thenounproject.com
                   direct address: https://thenounproject.com/term/old-person/3393714/
                   title: old person
                   user: Florent Lenormand
@@ -109,7 +121,9 @@ When using it for any project, you are required to give credit to the icon‘s 
 (Rights) “This icon is licensed as Creative Commons CCBY
 When using it for any project, you are required to give credit to the icon‘s creator or purchase a royalty–free license.”
 
-(Citations) site: thenounproject.com
+(Citations)       
+
+                  site: thenounproject.com
                   direct address: https://thenounproject.com/term/broken-leg/3393692/
                   title: broken leg
                   user: Florent Lenormand
@@ -123,7 +137,9 @@ When using it for any project, you are required to give credit to the icon‘s 
 (Rights) “This icon is licensed as Creative Commons CCBY
 When using it for any project, you are required to give credit to the icon‘s creator or purchase a royalty–free license.”
 
-(Citations) site: thenounproject.com
+(Citations) 
+
+                  site: thenounproject.com
                   direct address: https://thenounproject.com/term/person-with-a-disability/3393741/
                   title: person with a disability
                   user: Florent Lenormand
@@ -137,7 +153,9 @@ When using it for any project, you are required to give credit to the icon‘s 
 (Rights) “This icon is licensed as Creative Commons CCBY
 When using it for any project, you are required to give credit to the icon‘s creator or purchase a royalty–free license.”
 
-(Citations) site: thenounproject.com
+(Citations) 
+
+                  site: thenounproject.com
                   direct address: https://thenounproject.com/term/blind/3393683/
                   title: Blind
                   user: Florent Lenormand
@@ -151,7 +169,9 @@ When using it for any project, you are required to give credit to the icon‘s 
 (Rights) “This icon is licensed as Creative Commons CCBY
 When using it for any project, you are required to give credit to the icon‘s creator or purchase a royalty–free license.”
 
-(Citations) site: thenounproject.com
+(Citations) 
+
+                  site: thenounproject.com
                   direct address: https://thenounproject.com/term/pregnant/3393709/
                   title: Pregnant
                   user: Florent Lenormand
