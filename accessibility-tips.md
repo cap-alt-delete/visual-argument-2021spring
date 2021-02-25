@@ -14,7 +14,7 @@
 
 **2. British Dyslexia Association** - offers guidelines on styling to increase text readability for those with dyslexia
 
-- website: https://www.bdadyslexia.org.uk/advice/employers/creating-a-dyslexia-friendly-workplace/dyslexia-friendly-style-guide#:~:text=Readable%20fonts,may%20request%20a%20larger%20font.
+- website: https://www.bdadyslexia.org.uk/advice/employers/creating-a-dyslexia-friendly-workplace/dyslexia-friendly-style-guide#:~:text=Readable%20fonts,may%20request%20a%20larger%20font. (below are some highlights relevant to visual media)
 - sans serif fonts such as Arial, Verdana, Tahoma, Century Gothic, Trebuchet, Calibri, and Open Sans are more readable
 - minimum font size of 12-14 points, although larger can be more helpful
 - use bold over italics or underline for emphasis
