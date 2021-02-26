@@ -32,3 +32,4 @@
     - red/green, green/brown, green/blue, blue/gray, blue/purple, green/gray, green/black
 - use greater contrast and patterns/textures to make differentiation easier
 - you can also opt for a monochromatic color scheme that relies solely on contrast for differentiation 
+- symbols/icons can help to clarify things normally shown through color-coding
