@@ -1,8 +1,8 @@
-| Visual Assets Needed         | Solution                                                                              | Sourced               |
-| ---------------------------- | ------------------------------------------------------------------------------------- | --------------------- |
-| Differently-abled body icons | "Inclusive icons" collection on the Noun Project                                      | Yes - citations below |
-| Color-blind friendly palette | Start with palette in Venngage article, adjust to improve contrast for WCAG standards |                       |
-| Dyslexia friendly font       | Choose from list offered by British Dyslexia Association                              |                       |
+| Visual Assets Needed         | Solution                                                                              | Sourced                                                        |
+| ---------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| Differently-abled body icons | "Inclusive icons" collection on the Noun Project                                      | Yes - citations below                                          |
+| Color-blind friendly palette | Start with palette in Venngage article, adjust to improve contrast for WCAG standards | Have first version                                             |
+| Dyslexia friendly font       | Choose sans-serif, use bold for emphasis                                              | Deciding between Avenir Next (sans-serif), Myriad Pro, Verdana |
 
 *From assignment:* Credit all assets correctly, including attribution (creator names) where required
 
@@ -14,7 +14,7 @@
 
 (Checking off when added to .psd file so I know which are actually included in final project)
 
-- [ ] **“people” icon by Florent Lenormand from the Noun Project**
+- [x] **“people” icon by Florent Lenormand from the Noun Project**
 
 (Annotations) from “Inclusive icons” collection - person
 
@@ -30,7 +30,7 @@ When using it for any project, you are required to give credit to the icon‘s 
 
 —
 
-- [ ] **“broken leg” icon by Florent Lenormand from the Noun Project**
+- [x] **“broken leg” icon by Florent Lenormand from the Noun Project**
 
 (Annotations) from “Inclusive icons” collection - person with leg broken
 
@@ -46,7 +46,7 @@ When using it for any project, you are required to give credit to the icon‘s 
 
 —
 
-- [ ] **“Kid” icon by Florent Lenormand from the Noun Project**
+- [x] **“Kid” icon by Florent Lenormand from the Noun Project**
 
 (Annotations) from “Inclusive icons” collection - kid
 
@@ -62,7 +62,7 @@ When using it for any project, you are required to give credit to the icon‘s 
 
 —
 
-- [ ] **“people and large person” icon by Florent Lenormand from the Noun Project**
+- [x] **“people and large person” icon by Florent Lenormand from the Noun Project**
 
 (Annotations) from “Inclusive icons” collection - two people together
 
@@ -78,7 +78,7 @@ When using it for any project, you are required to give credit to the icon‘s 
 
 —
 
-- [ ] **“person with a disability” icon by Florent Lenormand from the Noun Project**
+- [x] **“person with a disability” icon by Florent Lenormand from the Noun Project**
 
 (Annotations) from “Inclusive icons” collection - person in mechanical wheelchair
 
@@ -94,7 +94,7 @@ When using it for any project, you are required to give credit to the icon‘s 
 
 —
 
-- [ ] **“old person” icon by Florent Lenormand from the Noun Project**
+- [x] **“old person” icon by Florent Lenormand from the Noun Project**
 
 (Annotations) from “Inclusive icons” collection - person with walker
 
@@ -110,7 +110,7 @@ When using it for any project, you are required to give credit to the icon‘s 
 
 —
 
-- [ ] **“broken leg” icon by Florent Lenormand from the Noun Project**
+- [x] **“broken leg” icon by Florent Lenormand from the Noun Project**
 
 (Annotations) from “Inclusive icons” collection - person with missing leg and two crutches - same title but different icon than second asset on the list
 
@@ -126,7 +126,7 @@ When using it for any project, you are required to give credit to the icon‘s 
 
 —
 
-- [ ] **“person with a disability” icon by Florent Lenormand from the Noun Project**
+- [x] **“person with a disability” icon by Florent Lenormand from the Noun Project**
 
 (Annotations) from “Inclusive icons” collection - person in a motorized wheelchair - same title as third above icon, different address
 
@@ -142,7 +142,7 @@ When using it for any project, you are required to give credit to the icon‘s 
 
 —
 
-- [ ] **“Blind” icon by Florent Lenormand from the Noun Project**
+- [x] **“Blind” icon by Florent Lenormand from the Noun Project**
 
 (Annotations) from “Inclusive icons” collection - person with cane
 
@@ -158,7 +158,7 @@ When using it for any project, you are required to give credit to the icon‘s 
 
 —
 
-- [ ] **“Pregnant” icon by Florent Lenormand from the Noun Project**
+- [x] **“Pregnant” icon by Florent Lenormand from the Noun Project**
 
 (Annotations) from “Inclusive icons” collection - pregnant person
 
