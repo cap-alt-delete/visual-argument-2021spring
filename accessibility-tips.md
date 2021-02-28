@@ -24,6 +24,7 @@
 - avoid fonts that use capital/uppercase with small caps for lower case
 - increase contrast between background and text
     - if possible, make the background light and the text dark
+    - note that stark white backgrounds might be distracting, cream/soft pastels can be better alternatives
 
 **3. Venngage Article "How to Use Color Blind Friendly Palettes to Make Your Charts Accessible" by Rachel Cravit (08/21/2019)** - offers color scheme tips, along with some color-blind safe color palettes
 
