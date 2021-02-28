@@ -1,8 +1,8 @@
-| Visual Assets Needed         | Solution                                                                              | Sourced                                                        |
-| ---------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| Differently-abled body icons | "Inclusive icons" collection on the Noun Project                                      | Yes - citations below                                          |
-| Color-blind friendly palette | Start with palette in Venngage article, adjust to improve contrast for WCAG standards | Have first version                                             |
-| Dyslexia friendly font       | Choose sans-serif, use bold for emphasis                                              | Deciding between Avenir Next (sans-serif), Myriad Pro, Verdana |
+| Visual Assets Needed         | Solution                                                                              | Sourced                                   |
+| ---------------------------- | ------------------------------------------------------------------------------------- | ----------------------------------------- |
+| Differently-abled body icons | "Inclusive icons" collection on the Noun Project                                      | Yes - citations below                     |
+| Color-blind friendly palette | Start with palette in Venngage article, adjust to improve contrast for WCAG standards | Have first version incorporated into file | 
+| Dyslexia friendly font       | Choose sans-serif, use bold for emphasis                                              | Avenir Next (sans-serif)                  |
 
 *From assignment:* Credit all assets correctly, including attribution (creator names) where required
 
