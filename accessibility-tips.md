@@ -1,4 +1,4 @@
-**Accessibility Tips Relevant to Visual Rhetoric** 
+**Accessibility Tips Relevant to Visual Rhetoric**
 
 (The following information is a compilation of notes taken from online research. The websites where the information was found are listed below and are not my original work. I simply wanted to gather relevant notes in one place for educational purposes.)
 
@@ -15,7 +15,7 @@
 - width of < 80 characters with non-justified text and line-spacing of at least 1.5 for any long text
 - images of text should only be used for pure decoration or when given presentation if necessary to the information being conveyed
 
-**2. British Dyslexia Association (2018)** - offers guidelines on styling to increase text readability for those with dyslexia 
+**2. British Dyslexia Association (2018)** - offers guidelines on styling to increase text readability for those with dyslexia
 
 - website: https://www.bdadyslexia.org.uk/advice/employers/creating-a-dyslexia-friendly-workplace/dyslexia-friendly-style-guide#:~:text=Readable%20fonts,may%20request%20a%20larger%20font. (below are some highlights relevant to visual media)
 - sans serif fonts such as Arial, Verdana, Tahoma, Century Gothic, Trebuchet, Calibri, and Open Sans are more readable
@@ -32,5 +32,9 @@
 - avoid color combinations that will make color differentiation difficult
     - red/green, green/brown, green/blue, blue/gray, blue/purple, green/gray, green/black
 - use greater contrast and patterns/textures to make differentiation easier
-- you can also opt for a monochromatic color scheme that relies solely on contrast for differentiation 
+- you can also opt for a monochromatic color scheme that relies solely on contrast for differentiation
 - symbols/icons can help to clarify things normally shown through color-coding
+
+**4. Kat Holmes' Inclusive Design Toolkit** - offers a straightforward manual, activities, and expert videos to aid designers in adopting inclusive design practices
+
+- website: https://katholmesdesign.com/inclusive-toolkit (*Copyright 2018 Kat Holmes Design, LLC*)

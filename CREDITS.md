@@ -154,3 +154,9 @@ When using it for any project, you are required to give credit to the icon‘s 
                   direct address: https://thenounproject.com/term/pregnant/3393709/
                   title: Pregnant
                   user: Florent Lenormand
+
+11. The website referenced as the follow-up source in my project was Kat Holmes' design website, which features a toolkit to aid in inclusive design practices. 
+
+                  site: katholmesdesign.com
+                  direct address: https://katholmesdesign.com/inclusive-toolkit
+                  *Copyright 2018 Kat Holmes Design, LLC*
